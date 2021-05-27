@@ -1,0 +1,14 @@
+C:\Users\ANIKET\source\repos\OtpAutofill\OtpAutofill\bin\Debug\netstandard2.0\OtpAutofill.deps.json
+C:\Users\ANIKET\source\repos\OtpAutofill\OtpAutofill\bin\Debug\netstandard2.0\OtpAutofill.dll
+C:\Users\ANIKET\source\repos\OtpAutofill\OtpAutofill\bin\Debug\netstandard2.0\ref\OtpAutofill.dll
+C:\Users\ANIKET\source\repos\OtpAutofill\OtpAutofill\bin\Debug\netstandard2.0\OtpAutofill.pdb
+C:\Users\ANIKET\source\repos\OtpAutofill\OtpAutofill\obj\Debug\netstandard2.0\OtpAutofill.csprojAssemblyReference.cache
+C:\Users\ANIKET\source\repos\OtpAutofill\OtpAutofill\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ANIKET\source\repos\OtpAutofill\OtpAutofill\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ANIKET\source\repos\OtpAutofill\OtpAutofill\obj\Debug\netstandard2.0\OtpAutofill.AssemblyInfoInputs.cache
+C:\Users\ANIKET\source\repos\OtpAutofill\OtpAutofill\obj\Debug\netstandard2.0\OtpAutofill.AssemblyInfo.cs
+C:\Users\ANIKET\source\repos\OtpAutofill\OtpAutofill\obj\Debug\netstandard2.0\OtpAutofill.csproj.CoreCompileInputs.cache
+C:\Users\ANIKET\source\repos\OtpAutofill\OtpAutofill\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ANIKET\source\repos\OtpAutofill\OtpAutofill\obj\Debug\netstandard2.0\OtpAutofill.dll
+C:\Users\ANIKET\source\repos\OtpAutofill\OtpAutofill\obj\Debug\netstandard2.0\ref\OtpAutofill.dll
+C:\Users\ANIKET\source\repos\OtpAutofill\OtpAutofill\obj\Debug\netstandard2.0\OtpAutofill.pdb
